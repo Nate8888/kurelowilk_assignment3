@@ -1,4 +1,4 @@
-package kurelowilk_assignment3;
+package kurelowilk_problem1;
 import java.util.Scanner;
 import java.security.SecureRandom;
 import java.util.Random;
